@@ -206,5 +206,13 @@
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-07T15:12:17.863Z"
+  },
+  {
+    "id": 1794150229723.3835,
+    "description": "Nail cutter",
+    "amount": 1944,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-08T15:03:49.720Z"
   }
 ]
