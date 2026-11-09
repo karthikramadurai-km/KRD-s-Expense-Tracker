@@ -214,5 +214,13 @@
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-08T15:03:49.720Z"
+  },
+  {
+    "id": 1794199479910.6077,
+    "description": "Xerox",
+    "amount": 7,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-09T04:44:39.903Z"
   }
 ]
