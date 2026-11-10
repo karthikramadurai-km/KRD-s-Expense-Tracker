@@ -180,7 +180,7 @@
     "description": "Jio bill",
     "amount": 1060.8,
     "method": "gpay",
-    "done": false,
+    "done": true,
     "created_at": "2026-11-07T07:24:07.979Z"
   },
   {
