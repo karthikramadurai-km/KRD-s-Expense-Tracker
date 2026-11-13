@@ -262,5 +262,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-13T05:04:11.712Z"
+  },
+  {
+    "id": 1794546257118.2068,
+    "description": "Banana",
+    "amount": 10,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-13T05:04:17.118Z"
   }
 ]
