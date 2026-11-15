@@ -350,5 +350,13 @@
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-15T13:18:34.694Z"
+  },
+  {
+    "id": 1794749285664.2039,
+    "description": "Mall purchase",
+    "amount": 297,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-15T13:28:05.664Z"
   }
 ]
