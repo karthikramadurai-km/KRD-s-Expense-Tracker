@@ -326,5 +326,13 @@
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-15T06:12:40.951Z"
+  },
+  {
+    "id": 1794740928933.103,
+    "description": "John Doe snacks",
+    "amount": 360,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-15T11:08:48.932Z"
   }
 ]
