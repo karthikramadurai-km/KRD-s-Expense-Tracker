@@ -318,5 +318,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-15T03:53:03.280Z"
+  },
+  {
+    "id": 1794723160971.735,
+    "description": "John Doe ticket",
+    "amount": 470,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-15T06:12:40.951Z"
   }
 ]
