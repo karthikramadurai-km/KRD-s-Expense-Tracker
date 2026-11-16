@@ -324,7 +324,7 @@
     "description": "John Doe ticket",
     "amount": 470,
     "method": "gpay",
-    "done": false,
+    "done": true,
     "created_at": "2026-11-15T06:12:40.951Z"
   },
   {
