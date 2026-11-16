@@ -332,7 +332,7 @@
     "description": "John Doe snacks",
     "amount": 360,
     "method": "gpay",
-    "done": false,
+    "done": true,
     "created_at": "2026-11-15T11:08:48.932Z"
   },
   {
