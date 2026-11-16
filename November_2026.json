@@ -276,7 +276,7 @@
     "description": "Puthina",
     "amount": 5,
     "method": "cash",
-    "done": false,
+    "done": true,
     "created_at": "2026-11-13T05:08:41.802Z"
   },
   {
