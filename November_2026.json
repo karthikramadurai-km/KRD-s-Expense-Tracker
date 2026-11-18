@@ -430,5 +430,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-18T06:06:29.045Z"
+  },
+  {
+    "id": 1794990936051.9424,
+    "description": "Nails",
+    "amount": 152,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-18T08:35:36.045Z"
   }
 ]
