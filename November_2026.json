@@ -406,5 +406,13 @@
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-17T16:32:02.816Z"
+  },
+  {
+    "id": 1794981131928.4958,
+    "description": "Equipment",
+    "amount": 300,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-18T05:52:11.923Z"
   }
 ]
