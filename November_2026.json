@@ -510,5 +510,13 @@
     "method": "gpay",
     "done": true,
     "created_at": "2026-11-20T10:49:57.149Z"
+  },
+  {
+    "id": 1795177750626.1338,
+    "description": "Bulb",
+    "amount": 100,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-20T12:29:10.605Z"
   }
 ]
