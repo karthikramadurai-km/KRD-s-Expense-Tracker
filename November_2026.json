@@ -586,7 +586,7 @@
   {
     "id": 1795347044095.6892,
     "description": "Tea",
-    "amount": 30,
+    "amount": 60,
     "method": "gpay",
     "done": false,
     "created_at": "2026-11-22T11:30:44.094Z"
