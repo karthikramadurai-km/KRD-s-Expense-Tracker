@@ -694,5 +694,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-26T14:49:46.228Z"
+  },
+  {
+    "id": 1795705007746.94,
+    "description": "Coffee powder",
+    "amount": 95,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-26T14:56:47.746Z"
   }
 ]
