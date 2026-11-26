@@ -686,5 +686,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-26T14:40:47.449Z"
+  },
+  {
+    "id": 1795704586228.1125,
+    "description": "Tooth powder",
+    "amount": 55,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-26T14:49:46.228Z"
   }
 ]
