@@ -710,5 +710,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-26T14:56:52.740Z"
+  },
+  {
+    "id": 1795705080007.8135,
+    "description": "Tablet",
+    "amount": 64,
+    "method": "cash",
+    "done": false,
+    "created_at": "2026-11-26T14:58:00.007Z"
   }
 ]
