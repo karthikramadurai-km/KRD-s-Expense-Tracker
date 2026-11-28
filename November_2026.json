@@ -750,5 +750,13 @@
     "method": "cash",
     "done": false,
     "created_at": "2026-11-28T09:31:02.802Z"
+  },
+  {
+    "id": 1795858269602.3655,
+    "description": "AOT Snacks",
+    "amount": 220,
+    "method": "gpay",
+    "done": false,
+    "created_at": "2026-11-28T09:31:09.602Z"
   }
 ]
